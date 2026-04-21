@@ -14,7 +14,7 @@ Windows build — coming soon.
 2. Open it and drag **HowlBridge** to your **Applications** folder
 3. Launch **HowlBridge** from Applications — your browser will open to link your account
 4. Give your computer a name, click **Link This Computer**
-5. The lime wolf in your menu bar means HowlBridge is running
+5. The lime coyote skull in your menu bar means HowlBridge is running
 
 ## Support
 
