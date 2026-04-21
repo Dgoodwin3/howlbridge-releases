@@ -2,6 +2,8 @@
 
 Desktop companion app for [HowlVault](https://howlvault.com) — bridges your predator caller (FOXPRO, Lucky Duck, ICOtec) to your HowlVault cloud sound library.
 
+> **About the "Source code" archives on the Releases page:** GitHub auto-generates those zips for every tagged release — they contain only this README and nothing else. HowlBridge source code is proprietary and lives in a separate private repository.
+
 ## Download
 
 **Latest macOS release:** see the [Releases](https://github.com/Dgoodwin3/howlbridge-releases/releases) page for the current signed & notarized `.dmg`.
