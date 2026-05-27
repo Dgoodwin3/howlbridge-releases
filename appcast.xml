@@ -27,12 +27,5 @@
     <!-- No releases published yet. First <item> will be inserted by the
          release workflow when v0.5.0 ships. -->
 
-  <item>
-      <title>HowlBridge 0.5.0</title>
-      <sparkle:releaseNotesLink>https://github.com/Dgoodwin3/howlbridge-releases/releases/tag/v0.5.0-windows</sparkle:releaseNotesLink>
-      <pubDate>Wed, 27 May 2026 22:02:18 +0000</pubDate>
-      <enclosure url="https://github.com/Dgoodwin3/howlbridge-releases/releases/download/v0.5.0-windows/HowlBridge-Setup-windows.exe" sparkle:os="windows" sparkle:version="0.5.0" sparkle:edSignature="Pl6BJ2ng2GRQ6e63zoXV5pt3ZvFfRvEM4xD8DcFd+pBB84mCfWho4iy6oxlc3/Y69JsOHBDfl5sgUy/qPwFPDw==" length="27200248" type="application/octet-stream"/>
-    </item>
-
-    </channel>
+  </channel>
 </rss>
