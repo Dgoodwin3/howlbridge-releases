@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  HowlBridge Auto-Update Feed
+  ─────────────────────────────────────────────────────────────────
+  This appcast.xml is consumed by Sparkle (macOS) and WinSparkle
+  (Windows) running inside the HowlBridge desktop app. Both check
+  this URL every 24 hours and prompt users to install new versions.
+
+  DO NOT hand-edit this file in production. The GitHub Actions
+  Windows release workflow + scripts/build-mac.sh both update this
+  file automatically when a new release is tagged.
+
+  Every <item> must contain TWO <enclosure> tags — one per platform
+  (sparkle:os="macos" and sparkle:os="windows") — each with a valid
+  Ed25519 signature (sparkle:edSignature) computed against the
+  enclosure binary using keys/sparkle_ed_priv.pem.
+
+  Plan: research/2026-05-26-windows-build-signing-gha.md
+-->
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>HowlBridge</title>
+    <link>https://dgoodwin3.github.io/howlbridge-releases/appcast.xml</link>
+    <description>HowlBridge automatic update channel for macOS and Windows.</description>
+    <language>en</language>
+
+    <!-- No releases published yet. First <item> will be inserted by the
+         release workflow when v0.5.0 ships. -->
+
+  </channel>
+</rss>
