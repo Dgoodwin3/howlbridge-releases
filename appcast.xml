@@ -28,6 +28,13 @@
          release workflow when v0.5.0 ships. -->
 
   <item>
+      <title>HowlBridge 0.5.1</title>
+      <sparkle:releaseNotesLink>https://github.com/Dgoodwin3/howlbridge-releases/releases/tag/v0.5.1</sparkle:releaseNotesLink>
+      <pubDate>Tue, 02 Jun 2026 04:19:02 +0000</pubDate>
+      <enclosure url="https://github.com/Dgoodwin3/howlbridge-releases/releases/download/v0.5.1/HowlBridge-0.5.1.dmg" sparkle:os="macos" sparkle:version="0.5.1" sparkle:edSignature="4ssdUQkRbtU8ZRKwTFQ+XkwCvMCxkmrZ0Ck7uqfmggDpeI35WlI+2r6l7YZZtE2G6NFsqkz8kMUgEVtPu2POBw==" length="9135037" type="application/octet-stream"/>
+    </item>
+
+    <item>
       <title>HowlBridge 0.5.0</title>
       <sparkle:releaseNotesLink>https://github.com/Dgoodwin3/howlbridge-releases/releases/tag/v0.5.0</sparkle:releaseNotesLink>
       <pubDate>Thu, 28 May 2026 01:16:07 +0000</pubDate>
