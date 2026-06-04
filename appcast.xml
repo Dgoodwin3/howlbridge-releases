@@ -29,9 +29,10 @@
 
   <item>
       <title>HowlBridge 0.5.3</title>
-      <sparkle:releaseNotesLink>https://github.com/Dgoodwin3/howlbridge-releases/releases/tag/v0.5.3</sparkle:releaseNotesLink>
-      <pubDate>Thu, 04 Jun 2026 20:26:34 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/Dgoodwin3/howlbridge-releases/releases/tag/v0.5.3-windows</sparkle:releaseNotesLink>
+      <pubDate>Thu, 04 Jun 2026 20:41:06 +0000</pubDate>
       <enclosure url="https://github.com/Dgoodwin3/howlbridge-releases/releases/download/v0.5.3/HowlBridge-0.5.3.dmg" sparkle:os="macos" sparkle:version="0.5.3" sparkle:edSignature="N2sz3Npsmc3wxnBMxyTukgK38+GiZxOmnPdYu3j9cCmJDzksvKjGylbhqbRSn5erR+wAffoxojtLYqhjhgU6AA==" length="9126896" type="application/octet-stream"/>
+      <enclosure url="https://github.com/Dgoodwin3/howlbridge-releases/releases/download/v0.5.3-windows/HowlVault-Installer.exe" sparkle:os="windows" sparkle:version="0.5.3" sparkle:edSignature="Ya5r4/Zkpv+uW4RdQ7BpNXXyn6gODE3xUzh7WfIO5rAnxyQzv8Ms4hLYNAlzau730OZzD1zViWVBeGZ6WIZSAw==" length="27598320" type="application/octet-stream"/>
     </item>
 
     <item>
