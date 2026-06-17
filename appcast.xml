@@ -28,6 +28,13 @@
          release workflow when v0.5.0 ships. -->
 
   <item>
+      <title>HowlBridge 0.5.5</title>
+      <sparkle:releaseNotesLink>https://github.com/Dgoodwin3/howlbridge-releases/releases/tag/v0.5.5-windows</sparkle:releaseNotesLink>
+      <pubDate>Wed, 17 Jun 2026 18:57:53 +0000</pubDate>
+      <enclosure url="https://github.com/Dgoodwin3/howlbridge-releases/releases/download/v0.5.5-windows/HowlVault-Installer.exe" sparkle:os="windows" sparkle:version="0.5.5" sparkle:edSignature="b6nLTIu9Y4u0ve599qEYntw0fBtf37usGjk4Af0JAlywulH+ZQKjYrVKD4VR8gACMGCCXlZ+iY7zUSC+d4p0Cg==" length="27623720" type="application/octet-stream"/>
+    </item>
+
+    <item>
       <title>HowlBridge 0.5.3</title>
       <sparkle:releaseNotesLink>https://github.com/Dgoodwin3/howlbridge-releases/releases/tag/v0.5.3-windows</sparkle:releaseNotesLink>
       <pubDate>Thu, 04 Jun 2026 20:41:06 +0000</pubDate>
